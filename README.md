@@ -17,6 +17,7 @@ And like this for user internal network card ip: -l172.10.5.17
 
 21:16:45.818 T # 3668 PresenceManager: aїљ noticing skypetestuser1 0x3e54a539a91a19fc-s-s65.55.223.23 :40013-r195 .100.213.25:31101-l172 .10.5.17:22960 23d23109 82f328ff 
 
+
 5. Catch user via whois service.
 http://nic.ru/whois/?query=195.100.213.25 
 
